@@ -522,7 +522,7 @@
               </div>
               <div class="content-test">
                 <p class="description lead">
-                 I was really satisfied with all my project Softfolio have work one. Good Job!
+                 I was really satisfied with all my project Softfolio have worked on. Good Job!
                 </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
